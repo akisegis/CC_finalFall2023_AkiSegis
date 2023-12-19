@@ -2,7 +2,7 @@
 Aki Segismundo
 LadyK
 Creative Coding A
-Final Progression Day 12
+Final Project
 18 December 2023
 */
 
